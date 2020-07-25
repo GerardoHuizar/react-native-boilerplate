@@ -1,0 +1,12 @@
+{
+  "name": "Taffy",
+  "displayName": "Taffy",
+  "expo": {
+    "name": "Taffy",
+    "slug": "Taffy",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
