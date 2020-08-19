@@ -1,0 +1,8 @@
+{
+  "settings": {
+    "import/resolver": {
+      "babel-plugin-root-import": {}
+    }
+  },
+  "parser": "babel-eslint"
+}

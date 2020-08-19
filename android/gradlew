@@ -15,6 +15,16 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
+yes | /home/gerardohuizar/Android/Sdk/tools/bin/sdkmanager "build-tools;28.0.3"
+yes | /home/gerardohuizar/Android/Sdk/tools/bin/sdkmanager "build-tools;28"
+$ANDROID_HOME/tools/bin/sdkmanager "build-tools;28.0.3" "platforms;android-28"
+yes | $ANDROID_HOME/tools/bin/sdkmanager --licenses
+
+yes | sdkmanager --licenses && sdkmanager --update
+
+
+
+
 
 ##############################################################################
 ##

@@ -1,0 +1,9 @@
+{
+    "boilerplate.screens.login.form.email": "Correo Electrónico",
+    "boilerplate.screens.login.form.password": "Contraseña",
+    "boilerplate.screens.login.form.forgotPassword": "Olvidaste Tu Contraseña?",
+    "boilerplate.screens.login.signup": "Regístrate",
+    "boilerplate.screens.login.login": "Iniciar Sesión",
+    "boilerplate.screens.login.orLoginWith": "Iniciar Sesión Con",
+    "boilerplate.containers.notFoundPage.header": "Page not found."
+}
